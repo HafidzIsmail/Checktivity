@@ -72,7 +72,7 @@ struct ActivityList: View{
 ////                    Text("\(")
 //                        .font(.headline)
 //                        .fontWeight(.semibold)
-                    Text("Category")
+                    Text("Test")
                         .font(.caption)
                 }
                 Spacer()
